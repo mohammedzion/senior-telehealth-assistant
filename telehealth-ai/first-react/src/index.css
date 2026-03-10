@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+
+  background: radial-gradient(
+    circle at center,
+    #ff7cc3 0%,
+    #b36bff 50%,
+    #6a3cff 100%
+  );
+}
